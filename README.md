@@ -1,7 +1,7 @@
 # HERACLES
 HERACLES algorithm reconstructs CRISPR-Cas9 lineages with hyperbolic embeddings
 
-![License: Apache 2.0](https://img.shields.io/github/license/gil2rok/heracles)
+![License: Apache-2.0](https://img.shields.io/github/license/gil2rok/heracles)
 
 ## Overview
 
